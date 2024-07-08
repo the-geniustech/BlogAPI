@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "60d0fe4f5311236168a109aa",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar1.jpg",
+      "publicId": "avatar1"
+    },
+    "role": "user",
+    "createdAt": "2024-01-01T08:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109ca"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109ab",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar2.jpg",
+      "publicId": "avatar2"
+    },
+    "role": "user",
+    "createdAt": "2024-01-02T09:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109cb"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109ac",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar3.jpg",
+      "publicId": "avatar3"
+    },
+    "role": "user",
+    "createdAt": "2024-01-03T10:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109cc"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109ad",
+    "name": "Robert Brown",
+    "email": "robert@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar4.jpg",
+      "publicId": "avatar4"
+    },
+    "role": "user",
+    "createdAt": "2024-01-04T11:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109cd"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109ae",
+    "name": "Emily Davis",
+    "email": "emily@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar5.jpg",
+      "publicId": "avatar5"
+    },
+    "role": "user",
+    "createdAt": "2024-01-05T12:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109ce"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109af",
+    "name": "Michael Wilson",
+    "email": "michael@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar6.jpg",
+      "publicId": "avatar6"
+    },
+    "role": "user",
+    "createdAt": "2024-01-06T13:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109cf"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109b0",
+    "name": "Sarah Lee",
+    "email": "sarah@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar7.jpg",
+      "publicId": "avatar7"
+    },
+    "role": "user",
+    "createdAt": "2024-01-07T14:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109d0"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109b1",
+    "name": "David Moore",
+    "email": "david@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar8.jpg",
+      "publicId": "avatar8"
+    },
+    "role": "user",
+    "createdAt": "2024-01-08T15:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109d1"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109b2",
+    "name": "Laura Martinez",
+    "email": "laura@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar9.jpg",
+      "publicId": "avatar9"
+    },
+    "role": "user",
+    "createdAt": "2024-01-09T16:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109d2"]
+  },
+  {
+    "_id": "60d0fe4f5311236168a109b3",
+    "name": "James Garcia",
+    "email": "james@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "avatar": {
+      "url": "http://example.com/avatar10.jpg",
+      "publicId": "avatar10"
+    },
+    "role": "user",
+    "createdAt": "2024-01-10T17:00:00.000Z",
+    "active": true,
+    "newsPosts": ["60d0fe4f5311236168a109d3"]
+  }
+]

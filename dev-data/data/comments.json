@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "60d0fe4f5311236168a109da",
+    "content": "This is an insightful article on the economy. Thanks for sharing!",
+    "author": "60d0fe4f5311236168a109ca",
+    "news": "60d0fe4f5311236168a109ca",
+    "createdAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109db",
+    "content": "Great analysis on the government's new policies.",
+    "author": "60d0fe4f5311236168a109cb",
+    "news": "60d0fe4f5311236168a109cb",
+    "createdAt": "2024-01-16T09:45:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109dc",
+    "content": "I totally agree with the points made in this article about sports.",
+    "author": "60d0fe4f5311236168a109cc",
+    "news": "60d0fe4f5311236168a109cc",
+    "createdAt": "2024-01-17T10:00:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109dd",
+    "content": "Education is indeed the cornerstone of our society. Well-written!",
+    "author": "60d0fe4f5311236168a109cd",
+    "news": "60d0fe4f5311236168a109cd",
+    "createdAt": "2024-01-18T11:15:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109de",
+    "content": "Interesting take on recent events. Looking forward to more articles.",
+    "author": "60d0fe4f5311236168a109ce",
+    "news": "60d0fe4f5311236168a109ce",
+    "createdAt": "2024-01-19T12:30:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109df",
+    "content": "This article really made me think about the future of our society.",
+    "author": "60d0fe4f5311236168a109cf",
+    "news": "60d0fe4f5311236168a109cf",
+    "createdAt": "2024-01-20T13:45:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109e0",
+    "content": "Thank you for the detailed insights on the financial sector.",
+    "author": "60d0fe4f5311236168a109d0",
+    "news": "60d0fe4f5311236168a109d0",
+    "createdAt": "2024-01-21T14:00:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109e1",
+    "content": "Government policies are indeed shaping our future. Great read!",
+    "author": "60d0fe4f5311236168a109d1",
+    "news": "60d0fe4f5311236168a109d1",
+    "createdAt": "2024-01-22T15:15:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109e2",
+    "content": "Sports news like this always keeps me informed. Thank you!",
+    "author": "60d0fe4f5311236168a109d2",
+    "news": "60d0fe4f5311236168a109d2",
+    "createdAt": "2024-01-23T16:30:00.000Z"
+  },
+  {
+    "_id": "60d0fe4f5311236168a109e3",
+    "content": "Educational content that is well researched. Keep it up!",
+    "author": "60d0fe4f5311236168a109d3",
+    "news": "60d0fe4f5311236168a109d3",
+    "createdAt": "2024-01-24T17:45:00.000Z"
+  }
+]
