@@ -8,11 +8,11 @@ package-lock.json
 yarn.lock
 
 # Environment Files
-.env
-.env.local
-.env.*.local
-.env.test
-.env.production
+config.env
+config.env.local
+config.env.*.local
+config.env.test
+config.env.production
 
 # Compiled Files
 dist/
