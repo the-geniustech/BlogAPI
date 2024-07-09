@@ -29,7 +29,10 @@ export const createNews = catchAsync(async (req, res) => {
 
   const news = await News.create({ ...newsDetails, author: req.user.id });
 
-  await User.findByIdAndUpdate(req.user.id, { posts: news._id });
+  const user = await User.findById(req.user.id);
+  await User.findByIdAndUpdate(req.params.id, {
+    posts: [...user.posts, news._id],
+  });
 
   res.status(201).json({
     status: 'success',

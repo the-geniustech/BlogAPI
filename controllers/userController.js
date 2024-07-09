@@ -74,20 +74,13 @@ export const deleteMe = catchAsync(async (req, res, next) => {
   });
 });
 
-// Perfoming CRUD operations on user data (Only for Admins)
-export const createUser = createOne(User);
-export const getAllUsers = getAll(User);
-
 export const getUser = catchAsync(async (req, res) => {
-  const doc = await User.findById(req.params.id).populate({
-    path: 'posts',
-    // select: ['title content'], // Specify the fields you want to select
-  });
+  const doc = await User.findById(req.params.id).populate(['posts']);
 
   if (!doc) {
     return res.status(404).json({
       status: 'fail',
-      message: 'No document found with that ID',
+      message: 'No User was found with that ID',
     });
   }
 
@@ -99,5 +92,8 @@ export const getUser = catchAsync(async (req, res) => {
   });
 });
 
+// Perfoming CRUD operations on user data (Only for Admins)
+export const createUser = createOne(User);
+export const getAllUsers = getAll(User);
 export const updateUser = updateOne(User);
 export const deleteUser = deleteOne(User);
